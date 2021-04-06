@@ -22,8 +22,4 @@ public class ClinicoGeral extends Medico{
     public void Receitar (String Receitar, boolean Doenca1, boolean Doenca2, boolean Doenca3){
         System.out.println("3 doenças");
     }
-
-    void AtendeEmCasa(boolean b) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 }
