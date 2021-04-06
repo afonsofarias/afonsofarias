@@ -8,10 +8,6 @@ package clinica;
 
 public class Cirurgiao extends Medico{
     String Especialidade;
-    
-    public Cirurgiao (String Especialidade) {
-        
-    }
 
     public Cirurgiao(String Especialidade, String Nome, int Crm) {
         super(Nome, Crm);
