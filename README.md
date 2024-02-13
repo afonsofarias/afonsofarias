@@ -1,12 +1,11 @@
-# 📊 Status - GitHub:
+  # 📊 Status - GitHub:
+<div align='center'>
+  <img height='180em', width='fit-content' src='https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofarias&layout=compact&langs_count=7&theme=dark' />
+  <img height='180em', width='fit-content' src='https://github-readme-stats.vercel.app/api?username=afonsofarias&show_icons=true&theme=dark' />
+  <img height='133em', width='fit-content' src='https://github-readme-streak-stats.herokuapp.com/?user=afonsofarias&theme=dark' />
+  <img width='670em' src="https://github.com/afonsofarias/Snake/blob/main/github-contribution-grid-snake-dark.svg">
+</div>
 
-
-![](https://github-readme-stats.vercel.app/api?username=afonsofarias&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=afonsofarias&theme=dark&hide_border=false) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofarias&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-contributor-stats.vercel.app/api?username=afonsofarias&limit=5&theme=dark&combine_all_yearly_contributions=true)<br>
-
-## 🏆 Troféus - GitHub 
-![](https://github-profile-trophy.vercel.app/?username=afonsofarias&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 Sobre mim:
 🔥 Atualmente trabalhando como Analista de TI no Centro Universitário CEST<br>
@@ -41,4 +40,4 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=afonsofarias&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=afonsofarias&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
