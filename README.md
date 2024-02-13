@@ -3,7 +3,7 @@
   <img height='180em', width='fit-content' src='https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofarias&layout=compact&langs_count=7&theme=dark' />
   <img height='180em', width='fit-content' src='https://github-readme-stats.vercel.app/api?username=afonsofarias&show_icons=true&theme=dark' />
   <img height='133em', width='fit-content' src='https://github-readme-streak-stats.herokuapp.com/?user=afonsofarias&theme=dark' />
-  <img width='510em' src="https://github.com/afonsofarias/Snake/blob/main/github-contribution-grid-snake-dark.svg">
+  <img width='500em' src="https://github.com/afonsofarias/Snake/blob/main/github-contribution-grid-snake-dark.svg">
 </div>
 
 
