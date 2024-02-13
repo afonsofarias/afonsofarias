@@ -1,4 +1,4 @@
-  # 📊 Status - GitHub:
+# 📊 Status - GitHub:
 <div align='center'>
   <img height='180em', width='fit-content' src='https://github-readme-stats.vercel.app/api/top-langs/?username=afonsofarias&layout=compact&langs_count=7&theme=dark' />
   <img height='180em', width='fit-content' src='https://github-readme-stats.vercel.app/api?username=afonsofarias&show_icons=true&theme=dark' />
