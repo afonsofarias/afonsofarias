@@ -8,9 +8,11 @@
 
 
 # 💫 Sobre mim:
-🔥 Atualmente trabalhando como Analista de TI no Centro Universitário CEST<br>
+🔥 Atualmente trabalhando como Analista de Negócios no Grupo CEUMA<br>
 💻 Formado em Engenharia da Computação<br>
-✨ Cursando Pós graduação em Docência do Ensino superior, Alura - Full stack: React com Node.js e ERP TOTVS<br>
+✨ Cursando:   Pós graduação em Docência do Ensino superior<br>
+               Alura - Full stack: React com Node.js<br>
+               Knowgap - Cursos RM TOTVS<br>
 ⚡ Socio da empresa Geekapps. Onde desenvolvemos soluções sob medida.<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-j-m-farias/)
 
