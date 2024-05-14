@@ -9,10 +9,10 @@
 
 # 💫 Sobre mim:
 🔥 Atualmente trabalhando como Analista de Negócios no Grupo CEUMA<br>
-💻 Formado em Engenharia da Computação<br>
+💻 Bacharel em Engenharia da Computação<br>
+💻 Especialista em Docência do Ensino superior<br>
 ⚡ Socio da empresa Geekapps. Onde desenvolvemos soluções sob medida.<br>
-✨ Cursando:  &nbsp;&nbsp;CICEP - Pós graduação em Docência do Ensino superior<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alura - Full stack: React com Node.js<br>
+✨ Cursando:  &nbsp;&nbsp;Alura - Full stack: React com Node.js<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Knowgap - Cursos RM TOTVS<br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afonso-j-m-farias/)
